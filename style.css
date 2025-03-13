@@ -98,3 +98,23 @@ ul li.active a{
     background-color: #fff;
     color: #000;
 }
+
+.seconnecter{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color :#fff;
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 10px 20px;
+    color :#fff;
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 10px 20px;
+}
+
+.seconnecter:hover{
+    background-color: #fff;
+    color: #000;
+}
